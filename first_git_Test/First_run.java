@@ -12,6 +12,9 @@ public class First_run {
 		driver.get("https://buyofuel.com/");
 		Thread.sleep(3000);
 		System.out.println("Succesfully opened and closed");
+		System.out.println("line of code update");
+
+		
 		driver.close();
 		
 	}
